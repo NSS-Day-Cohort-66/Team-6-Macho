@@ -1,0 +1,12 @@
+.mood_card {
+  display: flex;
+}
+
+.mood_img {
+  width: 350px;
+  height: auto;
+}
+
+.textBox {
+  display: flex;
+}
