@@ -38,3 +38,10 @@
 .mood_quote1 {
   padding-bottom: 10px;
 }
+
+.bannerImg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
