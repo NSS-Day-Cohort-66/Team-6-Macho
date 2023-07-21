@@ -1,0 +1,40 @@
+.moodsList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.mood_card {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  flex-basis: 25%;
+  border: 3px solid black;
+  margin: 20px;
+  padding: 10px;
+}
+
+.mood_name {
+  text-align: center;
+  font-size: 2em;
+}
+
+.mood_img {
+  width: 400px;
+  height: auto;
+  margin: 10px;
+}
+
+.textBox {
+  display: flex;
+  margin: 10px;
+}
+
+.quotes {
+  padding-left: 20px;
+}
+
+.mood_quote1 {
+  padding-bottom: 10px;
+}
