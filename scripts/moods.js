@@ -12,8 +12,8 @@ export const moodsOutput = () => {
       <section class="textBox">
         <div class="mood_text">${mood.text}</div>
         <section class="quotes">
-          <div class="mood_quote1">${mood.quotes[0]}</div>
-          <div class="mood_quote2">${mood.quotes[1]}</div></section>
+          <div class="mood_quote1">"${mood.quotes[0]}"</div>
+          <div class="mood_quote2">"${mood.quotes[1]}"</div></section>
       </section>
      </section>`;
   }
